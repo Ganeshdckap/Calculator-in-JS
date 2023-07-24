@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(93, 65, 65);
+}
+.test{
+    text-align: center;
+    background-color: rgb(135, 157, 122);
+    margin-top: 212px;
+    margin-right: 430px;
+    margin-left: 430px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
